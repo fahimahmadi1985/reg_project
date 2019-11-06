@@ -1,0 +1,23 @@
+.welcome {
+  text-align: center;
+}
+.regCont {
+  width: 80%;
+  border: 1px solid darkolivegreen;
+}
+
+.del-btn {
+  background-color: red;
+  color: white;
+  width: 15px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 0px;
+}
+
+div .bg-info {
+  background-color: cadetblue;
+  border: solid 1px rosybrown;
+}
